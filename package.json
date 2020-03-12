@@ -13,7 +13,7 @@
     "builtins": "1.0.1",
     "colors": "^1.0.3",
     "glob": "^5.0.5",
-    "mkdirp": "^0.5.0",
+    "mkdirp": "^1.0.0",
     "module-deps": "^3.6.4",
     "ncp": "^2.0.0",
     "outcome": "0.0.18",
